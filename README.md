@@ -5,27 +5,6 @@
         <link rel="stylesheet" href="style.css">
     </head>
    <body>
-    <div>
-    <nav>
-        <ul>
-            <li class="style">
-                <button>Home</button>
-            </li>
-            <li>
-                <button>Blogs</button>
-            </li>
-            <li>
-                <button>Service</button>
-            </li>
-            <li>
-                <button>Contact</button>
-            </li>
-            <li>
-                <button>About</button>
-            </li>
-        </ul>
-    </nav>
-    </div>
       <h1> <b> My Portfolio </b> </h1>
       <p> Hi My Name is <b>John Adrian H. Umpad</b> an aspiring computer science studnet learning to become a full stack developer </p>
       <hr>
