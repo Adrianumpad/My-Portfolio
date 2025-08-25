@@ -6,14 +6,14 @@
     </head>
    <body>
       <h1> <b> My Portfolio </b> </h1>
-      <p> Hi My Name is <b>John Adrian H. Umpad</b> an aspiring computer science studnet learning to become a full stack developer </p>
+      <p> Hi My Name is <b>John Adrian H. Umpad</b> an aspiring computer science studnet learning to become a Software Engineer </p>
       <hr>
       <h2>About Me</h2>
       <ul>
         <li>Studying Computer Science</li>
         <li>Lives In Las Pinas City</li>
         <li>Currently Studying About Phyton</li>
-        <li>Goal:To Become A Full Stack Developer</li>
+        <li>Goal:To Become A Full Stack DeveloperSoftware Engineer</li>
       </ul>
       <hr>
       <h2>What Im Currently Learning</h2>
