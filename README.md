@@ -13,7 +13,7 @@
         <li>Studying Computer Science</li>
         <li>Lives In Las Pinas City</li>
         <li>Currently Studying About Phyton</li>
-        <li>Goal:To Become A Full Stack DeveloperSoftware Engineer</li>
+        <li>Goal:To Become A Software Engineer</li>
       </ul>
       <hr>
       <h2>What Im Currently Learning</h2>
