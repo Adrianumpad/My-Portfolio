@@ -1,2 +1,3 @@
 # My-Portfolio
-a place where i can input my project as a computer science student
+Hi! i am John Adrian H. Umpad, A Computer Science Student 
+#About-Me
